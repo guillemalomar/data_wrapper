@@ -38,6 +38,7 @@ Download the pip package to your current environment:
 ```
 -> % pip install data_wrapper
 ```
+* still not ready
 
 ### Using your Database
 
