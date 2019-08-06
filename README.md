@@ -52,7 +52,7 @@ In order to do so, you will need to create a _creds.py_ file in your main folder
 
 ### Testing
 
-Some tests have been added to the 'tests' folder. To run them, simply type from the main project folder:
+Some tests will be added to the 'tests' folder. Wou will be able to run them by typing the following line from the main project folder:
 ```
 -> nosetests tests
 ```
